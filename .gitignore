@@ -1,0 +1,4 @@
+*.pkg
+/pfs/pfs_encrypted_test
+/out/
+/psvpfs
